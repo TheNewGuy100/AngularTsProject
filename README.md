@@ -1,1 +1,1 @@
-me leia :)
+Projeto com Angular JS práticado em aula do mesmo.
